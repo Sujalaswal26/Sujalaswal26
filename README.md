@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sujalaswal26](https://github.com/Sujalaswal26)
+- 👨‍💻 All of my projects are available at [https://github.com/Sujalaswal26/Sujal_Aswal](https://github.com/Sujalaswal26/Sujal_Aswal)
 
 - 📫 How to reach me **aswalsujal244@gmail.com**
 
